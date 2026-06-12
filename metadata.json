@@ -1,0 +1,6 @@
+{
+  "name": "Custodian Daily task",
+  "description": "A comprehensive Daily Task Manager for custodians, featuring repeating tasks, start-time alarm beeps, picture attachments for task descriptions and completions, and automatic PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
